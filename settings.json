@@ -27,6 +27,9 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
   "workbench.colorCustomizations": {
     "SOURCED_FROM": "https://github.com/funnylookinhat/sublime-oceanic-after-next-theme/blob/master/themes/Sublime%20Oceanic%20After%20Next%20Theme-color-theme-material.json",
     "activityBar.background": "#A7AEB7",
